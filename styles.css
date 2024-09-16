@@ -1,0 +1,18 @@
+.heading{
+	text-align: center;
+	color:lavenderblush;
+	background-color: hotpink;
+	font-size: 40px;
+	font-family: cursive,sans-serif;
+}
+
+.r1,
+.r2,
+.r3{
+
+	text-align: center;
+	color:skyblue;
+	background-color: lightgoldenrodyellow;
+	font-size: 30px;
+	font-family: cursive,sans-serif;
+}
